@@ -1,7 +1,7 @@
 # Understanding Malware Patterns — Playful Lab (Safe)
 **Author:** Shekhar Dutta
 
-> Learn the moves so you can stop the dance. — Practical, ethical, no-nonsense.
+> Learn the moves with Python so you can stop the dance. — Practical, ethical, no-nonsense.
 
 **What:** Tiny, safe Python simulations that *illustrate* malware patterns — persistence, beaconing, obfuscation — without harming anything.  
 **Why:** Build defensive intuition. Ship detection, not destruction.
