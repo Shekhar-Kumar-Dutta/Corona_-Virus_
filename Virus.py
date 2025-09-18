@@ -7,6 +7,7 @@ turtle.pencolor("green")
 turtle.penup()
 turtle.goto(0, 200)
 turtle.pendown()
+
 while True:
     turtle.forward(a)
     turtle.right(b)
