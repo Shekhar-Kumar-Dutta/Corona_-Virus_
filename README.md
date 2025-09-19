@@ -1,10 +1,12 @@
 # Understanding Malware Patterns — Playful Lab (Safe)
-**Author:** Shekhar Dutta
+
+**Author:** &nbsp;Shekhar Dutta
 
 > Learn the moves with Python so you can stop the dance. — Practical, ethical, no-nonsense.
 
-**What:** Tiny, safe Python simulations that *illustrate* malware patterns — persistence, beaconing, obfuscation — without harming anything.  
-**Why:** Build defensive intuition. Ship detection, not destruction.
+**What :** <i>Tiny, safe Python simulations that *illustrate* malware patterns<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— persistence, beaconing, obfuscation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— without harming anything.</i> <br>
+
+**Why :** <i>Build defensive intuition. Ship detection, not destruction.</i>
 
 **Quickstart**
 ```bash
